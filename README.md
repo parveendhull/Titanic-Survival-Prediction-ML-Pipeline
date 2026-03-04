@@ -1,3 +1,14 @@
+## Project Structure
+
+data/
+src/
+models/
+submission/
+
+README.md
+requirements.txt
+Kaggle Public Score: 0.77
+
 Titanic Survival Prediction ML Pipeline
 
 This project predicts whether a passenger survived the Titanic disaster using machine learning techniques.
