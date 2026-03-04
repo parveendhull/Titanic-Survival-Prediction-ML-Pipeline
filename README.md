@@ -1,9 +1,14 @@
-# Titanic Survival Prediction ML Project
+Titanic Survival Prediction ML Pipeline
 
-## Overview
 This project predicts whether a passenger survived the Titanic disaster using machine learning techniques.
 
-The goal is to build a robust ML pipeline with proper preprocessing, feature engineering, model training, and evaluation.
+The goal is to build a robust ML pipeline including:
+
+- Feature engineering
+- Data preprocessing
+- Model training
+- Hyperparameter tuning
+- Model evaluation
 
 ---
 
