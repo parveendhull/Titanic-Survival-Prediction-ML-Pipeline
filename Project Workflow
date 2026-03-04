@@ -1,1 +1,8 @@
-
+1. Data Loading
+2. Exploratory Data Analysis
+3. Feature Engineering
+4. Data Preprocessing using ColumnTransformer
+5. Model Training (Logistic Regression & Random Forest)
+6. Hyperparameter Tuning using RandomizedSearchCV
+7. Threshold Optimization
+8. Model Evaluation
